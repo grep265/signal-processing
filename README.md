@@ -9,3 +9,5 @@ The repository includes the following Jupyter notebooks:
 1. `fast-fourier-transform-fft-denoising.ipynb`: Demonstrates the use of FFT for signal denoising. [FFT](https://github.com/grep265/signal-processing/blob/main/fast-fourier-transform-fft-denoising.ipynb)
 2. `fft-vs-wavelet-transform-denoising.ipynb`: compares FFT vs wavelet transform for noise reduction in signals.  [FFT-vs-Wavelet](https://github.com/grep265/signal-processing/blob/main/fft-vs-wavelet-transform-denoising.ipynb)
 
+## References
+[Dynamics lab](https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC02_2_Denoise.ipynb)
