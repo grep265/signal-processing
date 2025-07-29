@@ -11,3 +11,5 @@ The repository includes the following Jupyter notebooks:
 
 ## References
 [Dynamics lab](https://github.com/dynamicslab/databook_python/blob/master/CH02/CH02_SEC02_2_Denoise.ipynb)
+
+[Deep note tutorials](https://deepnote.com/guides/notebook-tutorials/wavelength-denoising-in-deepnote)
